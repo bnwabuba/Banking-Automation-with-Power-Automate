@@ -1,9 +1,10 @@
-# Banking-Automation-with-Power-Automate
+[AUTOMATION.csv](https://github.com/user-attachments/files/19666480/AUTOMATION.csv)# Banking-Automation-with-Power-Automate
 Automated loan repayment reminders and customer birthday messages using Power Automate, reducing banking operational costs and improving customer engagement.
 
 
 
 # Banking Automation with Power Automate  
+
 
 ## Project Overview  
 This project automates **loan repayment reminders and customer birthday messages** for a bank using **Microsoft Power Automate**. The automation reduces **manual workload, improves efficiency, and cuts operational costs**.  
@@ -60,6 +61,13 @@ Cheers to you!
 
 Best Regards,  
 ABC Bank
+[UCustomer_ID,Customer_Name,Loan_Amount,Due_Date,Email,Phone_Number,Reminder_Sent
+CUST001,John Doe,5000,4/10/2025,johndoe@email.com,2348012345678,No
+CUST002,Jane Smith,10000,4/12/2025,janesmith@email.com,2348023456789,No
+CUST003,Michael Brown,7500,4/15/2025,michaelb@email.com,2348034567890,No
+CUST004,Emily Davis,12000,4/18/2025,emilyd@email.com,2348045678901,No
+CUST005,David Wilson,15000,4/20/2025,davidw@email.com,2348056789012,No
+ploading AUTOMATION.csv…]()
 
 
 ## Author  
